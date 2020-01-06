@@ -1,0 +1,4 @@
+.idea
+.*.token
+.*.p8
+vendor/
